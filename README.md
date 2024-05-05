@@ -4,7 +4,7 @@
 ## GitHub Link
 https://github.com/MicaelaJantonSt10439979/IMAD-Assignment2.git
  ## YouTube Link 
-(Link) 
+https://youtu.be/VvImuVkCjsQ
 ## Features 
 - Feature 1: In this Tamagotchi App users are led to an engaging welcome page that has a get started button once this button has been clicked users are directed to the game in MainActivity2. 
  - Feature 2: Once directed to MainActivity2 users will see three buttons each have their own action functions once these buttons have been clicked the virtual pet actions will change accordingly.
