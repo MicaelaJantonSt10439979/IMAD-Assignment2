@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyBunny Tamagotchi App</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_to_my_bunny_tamagotchi_app">Welcome To My Bunny Tamagotchi App</string>
+    <string name="play">Play</string>
+    <string name="todo">TODO</string>
+    <string name="Get_Started">Get Started</string>
+    <string name="Todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="Button">Button</string>
+    <string name="TTodo">TODO</string>
+    <string name="Ttodo">TODO</string>
+    <string name="toodo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="todoo">TODO</string>
+    <string name="feed">Feed</string>
+    <string name="clean">Clean</string>
+    <string name="playing">Play</string>
+    <string name="Clean">Clean</string>
+    <string name="Play">Play</string>
+    <string name="Hunger">Hunger</string>
+    <string name="cleanliness">Cleanliness</string>
+    <string name="happiness">Happiness</string>
+    <string name="_7">7</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+</resources>
